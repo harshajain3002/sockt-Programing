@@ -1,0 +1,6 @@
+hye there its my first code Code, in a general sense, is the language understood by the computer.
+Computers don't understand natural language. 
+As such the human language has to be converted into a set of "words" that are understood by the computer.
+The words that initiate a standard action when used in a program are called keywords. 
+The arrangement of keywords for successful execution of a desired computation is called syntax.
+The set of keywords and syntax form a programming language.
